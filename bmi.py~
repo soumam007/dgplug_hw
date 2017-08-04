@@ -35,12 +35,12 @@ ch=int(input("we want to calculate your BMI Press 1. to continue ----- enter you
 if ch==1:
   
   print ("pressd 1")
-  weight=float(input("Enter your weight in kg"))
-  height=float(input("enter your height in metres"))
+  weight=float(input("Enter your weight"))
+  height=float(input("enter your height"))
   bmi=weight/(height*height)
   
   
   ch2=int(input("to check your condition that you belong to which category press 1====>"))
   if ch2==1:
-    print("bmi(kg/m^2)=",bmi)
+    print("bmi=",bmi)
     check(bmi)
