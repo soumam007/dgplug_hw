@@ -22,8 +22,25 @@ BMI = 703*weight(lb)/height2(in^2)         (U.S. Units)
 
 This is the World Health Organization's (WHO) recommended body weight based on BMI values for adults. It is used for both men and women, age 18 or older.
 
-|Category|BMI(kg/m^2)|
-|--------------------|
+|Category           |BMI(kg/m^2) |
+|-------------------|-----------:|
+|severe thinness    |  <16       |
+|moderate thinness  |>=16&&<17   |
+|mild thinness      |>=17&&<185.5|
+|normal             |>=18.5&&<25 |
+|overweight         |>=25&&<30   |
+|obese class-1      |>=30&&<35   |
+|obese class-2      |>=35&&<40   |
+|obese class-3      |>=40        |
 
 
+
+
+###BMI Chart for Adults
+-----------------------
+
+This is a graph of BMI categories based on the World Health Organization data. The dashed lines represent subdivisions within a major categorization.
+
+
+[this is the image link of the bmi chart](http://d26tpo4cm8sb6k.cloudfront.net/img/bmi-chart.gif)
 
