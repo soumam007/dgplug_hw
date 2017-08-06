@@ -26,7 +26,7 @@ This is the World Health Organization's (WHO) recommended body weight based on B
 |-------------------|-----------:|
 |severe thinness    |  <16       |
 |moderate thinness  |>=16&&<17   |
-|mild thinness      |>=17&&<185.5|
+|mild thinness      |>=17&&<18.5 |
 |normal             |>=18.5&&<25 |
 |overweight         |>=25&&<30   |
 |obese class-1      |>=30&&<35   |
